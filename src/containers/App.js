@@ -2,7 +2,7 @@ import React from 'react';
 
 const App = () => (
   <div>
-    hah
+    Hah
   </div>
 );
 

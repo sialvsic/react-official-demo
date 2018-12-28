@@ -13,3 +13,8 @@ ReactDOM.render(
   <Root/>,
   document.getElementById('root')
 );
+
+//For Hot Module Replacement work in development
+if (module.hot) {
+  module.hot.accept();
+}
