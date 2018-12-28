@@ -44,7 +44,8 @@
   "dependencies": {
     "classnames": "^2.2.6",
     "react": "^16.5.0",
-    "react-dom": "^16.5.0"
+    "react-dom": "^16.5.0",
+    "react-router-dom": "^4.3.1"
   },
   "scripts": {
     "start": "node ./examples/server.js",
